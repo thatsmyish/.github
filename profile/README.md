@@ -1,4 +1,4 @@
-![Alt: That's My Ish Logo](logo.webp)
+![Alt: That's My Ish Logo](.github/logo.webp)
 # That's My Ish
 ## Sound That Fits the Moment
 

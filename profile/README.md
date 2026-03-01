@@ -1,4 +1,5 @@
-![Alt: That's My Ish Logo](/asssets/logo.webp)
+![logo](https://github.com/user-attachments/assets/0a317bba-dcbf-4f1b-b4df-3763a3872fdd)
+
 # That's My Ish
 ## Sound That Fits the Moment
 

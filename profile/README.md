@@ -1,12 +1,43 @@
-## Hi there 👋
+# That's My Ish
+## Sound That Fits the Moment
 
-<!--
+This contains my music-focused engineering work — systems, experiments, and production architectures built around one constraint:
 
-**Here are some ideas to get you started:**
+> **Design sound that supports the moment.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## Focus
+
+My work explores how structure, signal flow, and constraint shape feeling.
+
+Genres are reference points — not boundaries. What matters here is building repeatable, modular approaches to:
+
+- Atmosphere  
+- Groove  
+- Texture  
+- Spatial depth  
+- Emotional pacing  
+
+---
+
+## Engineering Principles
+
+### Modular Construction
+
+Projects are built to be:
+
+- Reusable  
+- Adaptable  
+- Scalable  
+- Easy to strip down or extend  
+
+Complexity is additive — never required.
+
+---
+
+## Core Principle
+
+**Build the system.**  
+**Shape the mood.**  
+**Serve the moment.**
